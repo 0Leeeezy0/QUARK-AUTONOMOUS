@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build",
+  "command": "/usr/bin/g++-12  -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./include -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./src/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/QA.run.dir/src/src/demo.cpp.o -c /home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/src/demo.cpp",
+  "file": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/src/demo.cpp"
+},
+{
+  "directory": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build",
+  "command": "/usr/bin/g++-12  -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./include -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./src/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/QA.run.dir/src/lib/libcamera.cpp.o -c /home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libcamera.cpp",
+  "file": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libcamera.cpp"
+},
+{
+  "directory": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build",
+  "command": "/usr/bin/g++-12  -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./include -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./src/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/QA.run.dir/src/lib/libcontrol.cpp.o -c /home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libcontrol.cpp",
+  "file": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libcontrol.cpp"
+},
+{
+  "directory": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build",
+  "command": "/usr/bin/g++-12  -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./include -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./src/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/QA.run.dir/src/lib/libimage.cpp.o -c /home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libimage.cpp",
+  "file": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libimage.cpp"
+},
+{
+  "directory": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build",
+  "command": "/usr/bin/g++-12  -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./include -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./src/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/QA.run.dir/src/lib/libmodel.cpp.o -c /home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libmodel.cpp",
+  "file": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libmodel.cpp"
+},
+{
+  "directory": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build",
+  "command": "/usr/bin/g++-12  -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./include -I/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/./src/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/QA.run.dir/src/lib/libuart.cpp.o -c /home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libuart.cpp",
+  "file": "/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/src/lib/libuart.cpp"
+}
+]

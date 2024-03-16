@@ -1,0 +1,3 @@
+/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build/CMakeFiles/QA.run.dir
+/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build/CMakeFiles/edit_cache.dir
+/home/leeeezy/Desktop/VSCODE_PROJECT/QUARK-AUTONOMOUS/build/CMakeFiles/rebuild_cache.dir
